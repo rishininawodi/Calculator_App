@@ -1,0 +1,60 @@
+/*button shape button is key word*/
+button{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    color: white;
+    background-color:rgb(182, 167, 167);
+    border: none;
+    font-size: 35px;
+    font-weight: bold;
+    cursor: pointer;
+}
+/*button id  css*/
+#buttons{
+    display: grid;
+    gap: 15px;
+    grid-template-columns: repeat(4,1fr);
+    padding: 20px;
+}
+/*id ofncalculator css*/
+#calculator{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(50, 46, 46);
+    border-radius: 20px;
+    max-width: 500px;
+    overflow: hidden;
+}
+/*style for dis id*/
+#dis{
+    width: 500px;
+    padding: 20px;
+    font-size: 35px;
+    border: none;
+    text-align: left;
+    background-color: rgb(42, 42, 135);
+    color: white;
+}
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(139, 139, 144);
+}
+button:hover{
+background-color: rgb(190, 190, 198);
+}
+button:active{
+    background-color: rgb(190, 190, 275);
+}
+.Button_Operator{
+    background-color: rgb(42, 42, 135);
+}
+.Button_Operator:hover{
+    background-color: rgb(42, 42, 225);
+}
+.Button_Operator:active{
+    background-color: rgb(42, 42,375);
+}
