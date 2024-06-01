@@ -1,6 +1,6 @@
  <h1>Simple Calculator</h1>
  
- ![clock](https://github.com/rishininawodi/Calculator_App/assets/123630889/5dc82be2-800c-4f2b-9ff6-ea134ca0310a)
+![cal](https://github.com/rishininawodi/Calculator_App/assets/123630889/836a4f31-9af3-4208-a310-fcd78d38fdc5)
 
 <h2>Used Languages :</h2>
 <ul>
